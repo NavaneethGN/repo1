@@ -1,3 +1,4 @@
 # repo1
 
-#Coursera python data science assignment
+Coursera python data science assignment
+Analyzing stock basics
